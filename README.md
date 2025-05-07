@@ -14,7 +14,7 @@ Key Features
 
 •	Informative Sections: Displays helpful documentation and getting-started resources.
 
-3. User Interface
+2. User Interface
    
 •	Responsive Design: Built using HTML and CSS for cross-browser compatibility and mobile responsiveness.
 
