@@ -4,7 +4,7 @@ Inspired by Bitnami and Apache Friends styling, this dashboard offers quick acce
 
 Ideal for local development environments, this system improves navigation, productivity, and aesthetics for developers working with XAMPP stacks.
  
- Key Features
+Key Features
  
 1. Application Dashboard
    
@@ -15,7 +15,7 @@ Ideal for local development environments, this system improves navigation, produ
 •	Informative Sections: Displays helpful documentation and getting-started resources.
 
 3. User Interface
-4. 
+   
 •	Responsive Design: Built using HTML and CSS for cross-browser compatibility and mobile responsiveness.
 
 •	Modular Content Area: Placeholder for future integration with dynamic module listings or user-specific apps.
